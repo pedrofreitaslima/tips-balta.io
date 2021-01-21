@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9z8W36mqn+6RGtm4lNatN7ggJ8NtsaUUYNGcOSnFcb7ATC6cdkYGQY+OOvtV9KpiYdVTVQ6ieXx4jCLgtSxvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phlima\\Desktop\\Code\\CQRSeMediator\\shop\\shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phlima\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\phlima\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\phlima\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

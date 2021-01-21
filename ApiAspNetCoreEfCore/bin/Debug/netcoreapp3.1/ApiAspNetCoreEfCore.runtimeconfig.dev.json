@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\phlima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\phlima\\.nuget\\packages"
+    ]
+  }
+}
